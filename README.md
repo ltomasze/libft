@@ -86,4 +86,3 @@ Notes:<br>
 - Pay attention to edge cases, such as null pointers or empty strings.<br>
 - The project emphasizes building a strong understanding of C programming basics.<br>
 <br>
-Good luck and have fun coding!<br>
